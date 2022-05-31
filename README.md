@@ -1,5 +1,5 @@
 # Proyecto Heroes
 ## Integrantes :
-## German Gutierres
+## German Gutierres 45 Salta
 ## Roberto Roda
 ## Lucas Amaya
