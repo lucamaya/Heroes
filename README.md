@@ -1,7 +1,7 @@
 # Proyecto Heroes
 ## Integrantes :
 <<<<<<< HEAD
-## German Gutierres 45 Salta
+## German Gutierres, 45 años, Salta
 ## Roberto Roda
 =======
 ## German Gutierres
